@@ -1,0 +1,17 @@
+#container{
+    text-align: center;
+    border: 2px solid black;
+    width: 42%;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 12px;
+    background-color: cadetblue;
+    padding: 15px;
+}
+body{
+    background-color: dodgerblue;
+}
+span{
+    color:white;
+    font-size: 16px;
+}
